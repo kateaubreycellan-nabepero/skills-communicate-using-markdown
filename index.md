@@ -29,3 +29,9 @@ def add(a, b): -> int
 sum_of_values = add(5, 10)
 print(sum_of_values)
 ```
+
+- [x] Headers in markdown
+- [x] Adding an image
+- [x] Code blocks
+- [x] Task list
+- [ ] And other unfinished tasks  
